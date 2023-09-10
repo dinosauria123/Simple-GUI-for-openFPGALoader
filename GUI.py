@@ -1,4 +1,7 @@
+#!/usr/bin/python3
+#
 # Forked from https://www.pythonguis.com/tutorials/qprocess-external-programs/
+#
 
 from PyQt5 import QtCore, QtWidgets
 from PyQt5.QtWidgets import QFileDialog, QMessageBox
