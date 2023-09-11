@@ -2,7 +2,7 @@
 Simple GUI for openFPGALoader
 
 Requirements:
-PyQt5 and openFPGALoader are installed.
+PyQt5(Python3) and openFPGALoader are installed.
 
 Only tested TangNano9k FPGA board/Ubuntu Linux.
 
